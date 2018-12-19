@@ -1,7 +1,7 @@
 from lxml import html
 import requests
 import re
-import bs4
+
 def itsefunktio():
 
     alennukset = "JIMMSIN TARJOUKSET\n"
